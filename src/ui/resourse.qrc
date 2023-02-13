@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icon/backspace_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>icon/arrow_downward_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>icon/calculate_FILL0_wght400_GRAD0_opsz48.png</file>
+    </qresource>
+</RCC>
